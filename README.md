@@ -4,6 +4,8 @@ Collection of mini-projects and assignments I made, majority of which were for u
 
 <br><br><br>// ROUGH //
 
+Progress status - migrating assignment files from google colab to this repo<br> 
+<br>LOG:
 (21/7/22) uploading 2-3 files/day
 
 <br>
