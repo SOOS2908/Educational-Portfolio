@@ -8,6 +8,8 @@ Progress status - migrating assignment files from google colab to this repo<br>
 <br>LOG:
 (21/7/22) uploading 2-3 files/day
 
+you can check out any of the notebooks below in my google drive folder (https://drive.google.com/drive/folders/1DOp1o6nz4pwzRItAKsFfBjNwtgzkR3-j?usp=sharing)
+
 <br>
 files to upload:
 <br>01_EDA
