@@ -2,6 +2,8 @@
 
 Collection of mini-projects and assignments I made, majority of which were for understanding how something works, comparing similar examples, or making generalized functions etc. 
 
+most of these are exploratory, i.e. I play with variable factors to find optimal solutions to the problem
+
 <br><br><br>// ROUGH //
 
 Progress status - migrating assignment files from google colab to this repo<br> 
